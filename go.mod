@@ -1,3 +1,3 @@
-module github.com/boletia/logrus-hook
+module github.com/boletia/logrushook
 
 go 1.15
